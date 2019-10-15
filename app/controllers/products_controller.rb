@@ -5,5 +5,7 @@ class ProductsController < ApplicationController
   
   
   
-  
+  def add_to_cart
+    
+  end 
 end 
